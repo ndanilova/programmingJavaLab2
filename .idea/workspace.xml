@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7104fc9-b6e6-4095-8e57-49529d0c52e9" name="Changes" comment="upd1.2">
+    <list default="true" id="d7104fc9-b6e6-4095-8e57-49529d0c52e9" name="Changes" comment="upd1.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabTwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LabTwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637938618790</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upd1.3">
+      <created>1637939321368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637939321368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upd1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd1.2" />
+    <MESSAGE value="upd1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd1.3" />
   </component>
 </project>
