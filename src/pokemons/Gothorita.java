@@ -8,6 +8,6 @@ public class Gothorita extends Gothita {
         super(name,lvl);
         setStats(60,45,70,75,85,55);
         setType(Type.PSYCHIC);
-        setMove(new CalmMind());
+        addMove(new CalmMind());
     }
 }

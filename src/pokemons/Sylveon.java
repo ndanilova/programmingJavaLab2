@@ -8,6 +8,6 @@ public class Sylveon extends Eevee {
         super(name,lvl);
         setStats(95,65,65,110,130,60);
         setType(Type.FAIRY);
-        setMove(new FireBlast());
+        addMove(new FireBlast());
     }
 }
