@@ -1,14 +1,13 @@
 package pokemons;
 
-import moves.*;
-import ru.ifmo.se.pokemon.*;
+import moves.RockSlide;
 
 public class Gothitelle extends Gothorita {
-        public Gothitelle(String name, int lvl) {
-            super(name, lvl);
-            setStats(70, 55,95,95,110,65);
-            addMove(new RockSlide());
-        }
-
+    public Gothitelle(String name, int lvl) {
+        super(name, lvl);
+        setStats(70, 55, 95, 95, 110, 65);
+        addMove(new RockSlide());
     }
+
+}
 

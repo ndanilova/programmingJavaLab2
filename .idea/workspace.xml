@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7104fc9-b6e6-4095-8e57-49529d0c52e9" name="Changes" comment="upd1.4">
+    <list default="true" id="d7104fc9-b6e6-4095-8e57-49529d0c52e9" name="Changes" comment="upd1.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Eevee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Eevee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637952030977</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upd1.5">
+      <created>1638033832114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638033832114</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +119,7 @@
     <MESSAGE value="upd1.2" />
     <MESSAGE value="upd1.3" />
     <MESSAGE value="upd1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd1.4" />
+    <MESSAGE value="upd1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd1.5" />
   </component>
 </project>
